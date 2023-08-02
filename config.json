@@ -1,0 +1,24 @@
+{
+  "play_on_replay": true,
+  "player_name": ["llllllllllll", "Ferrari", "Freeedom","Fiorano"],
+  "sounds": {
+    "start": [
+      "C:/Users/karl_/Downloads/SC2BetSystem-v1.3.1/Sounds/start.wav",
+      "C:/Users/karl_/Downloads/SC2BetSystem-v1.3.1/Sounds/FSL_KJ_intro.mp3",
+      "C:/Users/karl_/Downloads/SC2BetSystem-v1.3.1/Sounds/KJ punish.mp3"
+    ],
+    "defeat": [
+      "C:/Users/karl_/Downloads/SC2BetSystem-v1.3.1/Sounds/lose.mp3",
+      "C:/Users/karl_/Downloads/SC2BetSystem-v1.3.1/Sounds/Freeedom is going to tap out GG-ORIG.mp3"
+    ],
+    "victory": [
+      "C:/Users/karl_/Downloads/SC2BetSystem-v1.3.1/Sounds/GGupdated_Tasteless_soOvsRogueZvZ_Championship_WCS_GlobalFinals_2017_StarCraftII.mp3",
+      "C:/Users/karl_/Downloads/SC2BetSystem-v1.3.1/Sounds/PARTING_NoGG(TRAPMIX)_short.mp3",
+      "C:/Users/karl_/Downloads/SC2BetSystem-v1.3.1/Sounds/win.wav"
+    ],
+    "tie": [
+      "C:/Users/karl_/Downloads/SC2BetSystem-v1.3.1/Sounds/tie1.mp3",
+      "C:/Users/karl_/Downloads/SC2BetSystem-v1.3.1/Sounds/tie2.mp3"
+    ]
+  }
+}
